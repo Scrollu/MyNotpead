@@ -14,7 +14,7 @@ ENG
 # How to use? 
 1. Open the downloaded file package
 2. Open the folder "MyNotpead" 
-3. Run the file "Project.exe"
+3. Run the file "Project1.exe"
 4. Enjoy my own notepad
 
 
@@ -30,5 +30,5 @@ PL
 # Jak użyć? 
 1. Otwórz pobraną paczkę plików
 2. Otwórz folder "MyNotpead"
-3. Uruchom plik "Project.exe"
+3. Uruchom plik "Project1.exe"
 4. Ciesz się moim własnym notatnikiem 
