@@ -2,6 +2,8 @@
 Just simply notepad
 
 
+
+
 ENG
 ----------------------------------------
 # How to download? 
@@ -14,6 +16,8 @@ ENG
 2. Open the folder "MyNotpead" 
 3. Run the file "Project.exe"
 4. Enjoy my own notepad
+
+
 
 
 PL
